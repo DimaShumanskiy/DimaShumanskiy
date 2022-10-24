@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/дмитрий шуманский" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="дмитрий шуманский" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D1%88%D1%83%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-91b0b0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="дмитрий шуманский" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
